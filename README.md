@@ -22,3 +22,5 @@ for (i in arr) {処理}
 例：
 fun sayHello(arg: String) {...}
 
+･ クラスについて
+JSではクラスをインスタンス化するときに new を使うが、Kotlinでは Class() とするだけである
